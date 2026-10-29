@@ -37,7 +37,7 @@ export default function WebsiteCV() {
         marginBottom={5}>
         <Button
           bg={{ base: "primary", _dark: "white" }}
-          onClick={() => window.open("https://github.com/KyleArcade/EmployeeManager")}>
+          onClick={() => window.open("https://github.com/KyleArcade/WebsiteCV")}>
           <FontAwesomeIcon icon={faGithub} size="lg" />
           <Text>Website CV</Text>
         </Button>
