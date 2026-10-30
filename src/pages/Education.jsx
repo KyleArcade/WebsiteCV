@@ -20,7 +20,7 @@ export default function Education() {
             objectFit="cover"
             maxW="100%"
             rounded="md"
-            src="/src/assets/Graduation.jpg"
+            src="/Graduation.jpg"
             alt="Kyle"
             display={{ base: "none", md: "block" }}
           />

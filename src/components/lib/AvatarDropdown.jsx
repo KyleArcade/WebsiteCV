@@ -8,7 +8,7 @@ export default function AvatarDropdown() {
         <Menu.Root>
             <Menu.Trigger rounded="full" focusRing="outside">
                 <Avatar.Root>
-                    <Avatar.Image src="/src/assets/KyleAvatar.png" />
+                    <Avatar.Image src="/KyleAvatar.png" />
                     <Avatar.Fallback delayms={600}>
                         KG
                     </Avatar.Fallback>

@@ -28,31 +28,31 @@ export const Projects = [
         images: [
             {
                 label: "Landing Page",
-                src: "/src/assets/img/projects/EmployeeManager/Landing-page.png",
+                src: "/img/projects/EmployeeManager/Landing-Page.png",
             },
             {
                 label: "Skills Page",
-                src: "/src/assets/img/projects/EmployeeManager/Name-Search.png",
+                src: "/img/projects/EmployeeManager/Name-Search.png",
             },
             {
                 label: "Education Page",
-                src: "/src/assets/img/projects/EmployeeManager/Employee-Added.png",
+                src: "/img/projects/EmployeeManager/Employee-Added.png",
             },
             {
                 label: "Experience Page",
-                src: "/src/assets/img/projects/EmployeeManager/Multiple-Added.png",
+                src: "/img/projects/EmployeeManager/Multiple-Added.png",
             },
             {
                 label: "Mobile Landing Page",
-                src: "/src/assets/img/projects/EmployeeManager/Create-Employee.png",
+                src: "/img/projects/EmployeeManager/Create-Employee.png",
             },
             {
                 label: "Mobile Experience Page",
-                src: "/src/assets/img/projects/EmployeeManager/New-Added.png",
+                src: "/img/projects/EmployeeManager/New-Added.png",
             },
             {
                 label: "Mobile Experience Page",
-                src: "/src/assets/img/projects/EmployeeManager/Mobile-Landing.png",
+                src: "/img/projects/EmployeeManager/Mobile-Landing.png",
             },
         ]
     },
@@ -87,27 +87,27 @@ export const Projects = [
         images: [
             {
                 label: "Landing Page",
-                src: "/src/assets/img/projects/WebsiteCV/Landing-page.png",
+                src: "/img/projects/WebsiteCV/Landing-Page.png",
             },
             {
                 label: "Skills Page",
-                src: "/src/assets/img/projects/WebsiteCV/Skills-Page.png",
+                src: "/img/projects/WebsiteCV/Skills-Page.png",
             },
             {
                 label: "Education Page",
-                src: "/src/assets/img/projects/WebsiteCV/Education-Page.png",
+                src: "/img/projects/WebsiteCV/Education-Page.png",
             },
             {
                 label: "Experience Page",
-                src: "/src/assets/img/projects/WebsiteCV/Experience-Page.png",
+                src: "/img/projects/WebsiteCV/Experience-Page.png",
             },
             {
                 label: "Mobile Landing Page",
-                src: "/src/assets/img/projects/WebsiteCV/Mobile-Landing.png",
+                src: "/img/projects/WebsiteCV/Mobile-Landing.png",
             },
             {
                 label: "Mobile Experience Page",
-                src: "/src/assets/img/projects/WebsiteCV/Mobile-Experience.png",
+                src: "/img/projects/WebsiteCV/Mobile-Experience.png",
             },
         ]
     },

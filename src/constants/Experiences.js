@@ -5,8 +5,8 @@ export const Experiences = [
         startDate: new Date("2026-06-01"),
         endDate: new Date("2026-10-01"),
         isCurrent: false,
-        logo: "/src/assets/logos/AIIMI-logo.png",
-        darkLogo: "/src/assets/logos/AIIMI-logo.png",
+        logo: "/logos/AIIMI-logo.png",
+        darkLogo: "/logos/AIIMI-logo.png",
         stackTags: [
             "Javascript",
             "Typescript",
@@ -34,8 +34,8 @@ export const Experiences = [
         startDate: new Date("2019-08-01"),
         endDate: new Date("2026-06-01"),
         isCurrent: false,
-        logo: "/src/assets/logos/Symology-Logo.png",
-        darkLogo: "/src/assets/logos/Symology-Logo.png",
+        logo: "/logos/Symology-Logo.png",
+        darkLogo: "/logos/Symology-Logo.png",
         stackTags: [
             "Javascript",
             "Typescript",

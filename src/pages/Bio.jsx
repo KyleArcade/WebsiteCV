@@ -14,7 +14,7 @@ export default function Bio() {
             objectFit="cover"
             maxW="100%"
             rounded="md"
-            src="/src/assets/LandingImage.jpg"
+            src="/LandingImage.jpg"
             alt="Kyle"
             display={{ base: "none", md: "block" }}
           />
